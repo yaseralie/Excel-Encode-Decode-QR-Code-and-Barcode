@@ -1,0 +1,4 @@
+1. Copy 3 files ini ke C:\Windows\System32
+2. Jalankan file register.cmd dengan administrator
+3. Restart
+4. Di visual basic reference, arahkan ke file tlb yang ada di C:\Windows\System32
